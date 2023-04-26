@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/iAmYinka/source/repos/ShootingGallery/Content/galleryFont.spritefont</SourceFile>
+  <SourceTime>2017-11-18T14:07:30+01:00</SourceTime>
+  <DestFile>C:/Users/iAmYinka/source/repos/ShootingGallery/Content/bin/DesktopGL/galleryFont.xnb</DestFile>
+  <DestTime>2023-04-25T22:08:33.4230035+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
